@@ -1,0 +1,6 @@
+
+campusHire-be/deploy.sh
+.env
+.DS_Store
+
+campusHire-be/uploads/
